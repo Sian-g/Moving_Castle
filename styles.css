@@ -1,5 +1,4 @@
 body {
-  font-family: system-ui, sans-serif;
   margin: 0;
   padding: 0;
   background: #fefefe;
@@ -8,19 +7,17 @@ body {
 .container {
   max-width: 960px;
   margin: 3rem auto;
-  padding: 0 1rem;
 }
 .section {
   display: flex;
   align-items: center;
-  gap: 2rem;
-  margin-bottom: 4rem;
+  gap: 4rem;
+  margin-bottom: 6rem;
 }
 .section img {
   width: 200px;
   height: auto;
   border-radius: 12px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 .section-content {
   flex: 1;
