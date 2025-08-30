@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>My GitHub Site</title>
+    <style>
+      body { max-width: 720px; margin: 4rem auto; font: 16px/1.6 system-ui, Arial, sans-serif; }
+      h1 { margin-bottom: 0.2rem; }
+      .muted { color: #555; }
+      a { text-decoration: none; }
+    </style>
+  </head>
+  <body>
+    <h1>G’day 👋</h1>
+    <p class="muted">Welcome to my GitHub Pages site.</p>
+    <p>This page is hosted for free by GitHub. Edit <code>index.html</code> to update it.</p>
+  </body>
+</html>
